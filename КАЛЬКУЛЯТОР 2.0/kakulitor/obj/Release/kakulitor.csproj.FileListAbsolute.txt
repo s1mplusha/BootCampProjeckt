@@ -1,0 +1,12 @@
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\bin\Release\kakulitor.exe.config
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\bin\Release\kakulitor.exe
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\bin\Release\kakulitor.pdb
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\obj\Release\kakulitor.csproj.AssemblyReference.cache
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\obj\Release\kakulitor.PASSWORD.resources
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\obj\Release\kakulitor.MENU.resources
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\obj\Release\kakulitor.Form3.resources
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\obj\Release\kakulitor.Properties.Resources.resources
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\obj\Release\kakulitor.csproj.GenerateResource.cache
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\obj\Release\kakulitor.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\obj\Release\kakulitor.exe
+C:\Users\student\Documents\илюхин кирилл\MyBOOTCAMP\kakulitor\obj\Release\kakulitor.pdb
